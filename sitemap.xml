@@ -2,200 +2,260 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap-0.9">
   <url>
     <loc>https://sao-luis.geotecnia1.org/</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/escavacoes-profundas</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/ancoragens/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/radiers</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/cbr-viario/</loc>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/pavimento-rigido</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/colunas-brita/</loc>
+    <lastmod>2026-05-13</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/ancoragens</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/densidade-cone-areia/</loc>
+    <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/monitoramento-escavacoes</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/ensaio-cpt/</loc>
+    <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/injecoes</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/ensaio-placa-carga/</loc>
+    <lastmod>2026-04-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/densidade-cone-areia</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/ensaios-proctor/</loc>
+    <lastmod>2026-05-22</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/microzoneamento-sismico</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/escavacoes/</loc>
+    <lastmod>2026-05-22</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/triaxial</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/escavacoes-profundas/</loc>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/pavimento-flexivel</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/estabilidade-taludes/</loc>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/limites-atterberg</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/estacas/</loc>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/isolamento-sismico</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/fundacoes/</loc>
+    <lastmod>2026-05-22</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/liquefacao</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/geofisica/</loc>
+    <lastmod>2026-05-22</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/masw</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/geotecnia-viaria/</loc>
+    <lastmod>2026-05-22</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/ensaios-proctor</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/granulometria/</loc>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/refracao-sismica</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/injecoes/</loc>
+    <lastmod>2026-05-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/estacas</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/investigacao/</loc>
+    <lastmod>2026-05-22</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/permeabilidade-in-situ</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/isolamento-sismico/</loc>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/colunas-brita</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/lab-in-situ/</loc>
+    <lastmod>2026-05-22</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/ensaio-cpt</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/laboratorio/</loc>
+    <lastmod>2026-05-22</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/sondagens-spt</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/limites-atterberg/</loc>
+    <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/pocos-inspecao</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/liquefacao/</loc>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/sapatas</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/masw/</loc>
+    <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/estabilidade-taludes</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/melhoramento/</loc>
+    <lastmod>2026-05-22</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/cbr-viario</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/microzoneamento-sismico/</loc>
+    <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/tuneis-solo-mole</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/monitoramento-escavacoes/</loc>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/granulometria</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/muros-contencao/</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/vibrocompactacao</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/pavimento-flexivel/</loc>
+    <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/muros-contencao</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/pavimento-rigido/</loc>
+    <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/resistividade</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/permeabilidade-in-situ/</loc>
+    <lastmod>2026-04-12</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/contato</loc>
-    <lastmod>2026-05-04</lastmod>
+    <loc>https://sao-luis.geotecnia1.org/pocos-inspecao/</loc>
+    <lastmod>2026-04-08</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-luis.geotecnia1.org/radiers/</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-luis.geotecnia1.org/refracao-sismica/</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-luis.geotecnia1.org/resistividade/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-luis.geotecnia1.org/sapatas/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-luis.geotecnia1.org/sismica/</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-luis.geotecnia1.org/sitemap/</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://sao-luis.geotecnia1.org/privacidade</loc>
-    <lastmod>2026-05-04</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <loc>https://sao-luis.geotecnia1.org/sondagens-spt/</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-luis.geotecnia1.org/taludes/</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-luis.geotecnia1.org/triaxial/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-luis.geotecnia1.org/tuneis-solo-mole/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-luis.geotecnia1.org/vibrocompactacao/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
